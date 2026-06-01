@@ -25,7 +25,6 @@ Actualmente trabajo en proyectos relacionados con e-commerce, sistemas de gesti�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
-
 ## Proyectos Destacados
 
 ### 🐶 E-Commerce Petshop
@@ -33,23 +32,18 @@ Actualmente trabajo en proyectos relacionados con e-commerce, sistemas de gesti�
 E-commerce completo desarrollado con Next.js, integrado con pasarela de pagos y enfocado en la venta de productos para mascotas.
 
 **Tecnologías:** Next.js, React, PostgreSQL, Mercado Pago.
-
 ---
-
 ### 🚀 Bit and Brain
 
 Sitio web de Software Factory desarrollado en equipo utilizando Next.js y Three.js. Participé en el desarrollo e integración de modelos 3D interactivos para mejorar la experiencia de usuario y la vista de proyectos.
 
 **Tecnologías:** Next.js, React, Three.js.
-
 ---
-
 ### 📊 Core (En desarrollo)
 
 Sistema de gestión comercial multisucursal orientado a la administración de ventas, stock, productos y clientes.
 
 **Tecnologías:** Next.js, Vite, Node.js, PostgreSQL.
-
 ---
 
 ## Actualmente aprendiendo
@@ -59,15 +53,6 @@ Sistema de gestión comercial multisucursal orientado a la administración de ve
 * Optimización y diseño de bases de datos
 * Análisis de datos con Python y Pandas
 * Buenas prácticas de desarrollo y patrones de diseño
-
----
-
-## Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachofernandez14\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachofernandez14\&layout=compact)
-
 ---
 
 ## Contacto
